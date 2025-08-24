@@ -1,0 +1,1 @@
+# adgm-legal-assistant
